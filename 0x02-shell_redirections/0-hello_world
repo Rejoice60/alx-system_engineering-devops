@@ -1,2 +1,2 @@
-!#/bin/bash
+#!/bin/bash
 scho -e 'Hello, World'
